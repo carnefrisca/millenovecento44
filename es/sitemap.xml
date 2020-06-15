@@ -3,283 +3,283 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/es/projects/photography/</loc>
+    <loc>./es/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/projects/photography/"
+                href="./de/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/photography/"
+                href="./projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/projects/photography/"
+                href="./es/projects/photography/"
                 />
   </url>
   
   <url>
-    <loc>/es/projects/design/</loc>
+    <loc>./es/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/projects/design/"
+                href="./de/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/design/"
+                href="./projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/projects/design/"
+                href="./es/projects/design/"
                 />
   </url>
   
   <url>
-    <loc>/es/projects/writing/</loc>
+    <loc>./es/projects/writing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/projects/writing/"
+                href="./de/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/writing/"
+                href="./projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/projects/writing/"
+                href="./es/projects/writing/"
                 />
   </url>
   
   <url>
-    <loc>/es/projects/</loc>
+    <loc>./es/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/projects/"
+                href="./de/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/"
+                href="./projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/projects/"
+                href="./es/projects/"
                 />
   </url>
   
   <url>
-    <loc>/es/blog/</loc>
+    <loc>./es/blog/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/blog/"
+                href="./de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="./blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/"
+                href="./es/blog/"
                 />
   </url>
   
   <url>
-    <loc>/es/blog/hipser-ipsum/</loc>
+    <loc>./es/blog/hipser-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/es/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-  </url>
-  
-  <url>
-    <loc>/es/tags/ipsum/</loc>
+    <loc>./es/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/ipsum/"
+                href="./de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/ipsum/"
+                href="./"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/ipsum/"
+                href="./es/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/</loc>
+    <loc>./es/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="./de/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="./tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="./es/tags/ipsum/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/words/</loc>
+    <loc>./es/tags/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/words/"
+                href="./de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/words/"
+                href="./tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/words/"
+                href="./es/tags/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/code/</loc>
+    <loc>./es/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="./de/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="./tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="./es/tags/words/"
+                />
+  </url>
+  
+  <url>
+    <loc>./es/tags/code/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/code/"
+                href="./de/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/code/"
+                href="./tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/code/"
+                href="./es/tags/code/"
                 />
   </url>
   
   <url>
-    <loc>/es/blog/startup-ipsum/</loc>
+    <loc>./es/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/blog/startup-ipsum/"
+                href="./de/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/startup-ipsum/"
+                href="./blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/startup-ipsum/"
+                href="./es/blog/startup-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/coffee/</loc>
+    <loc>./es/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/coffee/"
+                href="./de/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/coffee/"
+                href="./tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/coffee/"
+                href="./es/tags/coffee/"
                 />
   </url>
   
   <url>
-    <loc>/es/blog/coffee-ipsum/</loc>
+    <loc>./es/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/blog/coffee-ipsum/"
+                href="./de/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/coffee-ipsum/"
+                href="./blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/coffee-ipsum/"
+                href="./es/blog/coffee-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>/es/tags/images/</loc>
+    <loc>./es/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/images/"
+                href="./de/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/images/"
+                href="./tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/images/"
+                href="./es/tags/images/"
                 />
   </url>
   
