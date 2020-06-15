@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Introduction</title>
-    <link>https://carnefrisca.github.io/millenovecento44/tags/</link>
+    <link>millenovecento44/tags/</link>
     <description>Recent content in Tags on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 May 2020 20:18:53 -0500</lastBuildDate>
     
-	<atom:link href="https://carnefrisca.github.io/millenovecento44/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="millenovecento44/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blog</title>
-      <link>https://carnefrisca.github.io/millenovecento44/tags/blog/</link>
+      <link>millenovecento44/tags/blog/</link>
       <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
       
-      <guid>https://carnefrisca.github.io/millenovecento44/tags/blog/</guid>
+      <guid>millenovecento44/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>https://carnefrisca.github.io/millenovecento44/tags/code/</link>
+      <link>millenovecento44/tags/code/</link>
       <pubDate>Sat, 30 May 2020 20:18:53 -0500</pubDate>
       
-      <guid>https://carnefrisca.github.io/millenovecento44/tags/code/</guid>
+      <guid>millenovecento44/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ipsum</title>
-      <link>https://carnefrisca.github.io/millenovecento44/tags/ipsum/</link>
+      <link>millenovecento44/tags/ipsum/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://carnefrisca.github.io/millenovecento44/tags/ipsum/</guid>
+      <guid>millenovecento44/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>words</title>
-      <link>https://carnefrisca.github.io/millenovecento44/tags/words/</link>
+      <link>millenovecento44/tags/words/</link>
       <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
       
-      <guid>https://carnefrisca.github.io/millenovecento44/tags/words/</guid>
+      <guid>millenovecento44/tags/words/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coffee</title>
-      <link>https://carnefrisca.github.io/millenovecento44/tags/coffee/</link>
+      <link>millenovecento44/tags/coffee/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://carnefrisca.github.io/millenovecento44/tags/coffee/</guid>
+      <guid>millenovecento44/tags/coffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>images</title>
-      <link>https://carnefrisca.github.io/millenovecento44/tags/images/</link>
+      <link>millenovecento44/tags/images/</link>
       <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
       
-      <guid>https://carnefrisca.github.io/millenovecento44/tags/images/</guid>
+      <guid>millenovecento44/tags/images/</guid>
       <description></description>
     </item>
     
