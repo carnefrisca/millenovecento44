@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>millenovecento44/de/</loc>
+    <loc>/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="millenovecento44/es/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="millenovecento44/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="millenovecento44/de/"
+                href="/de/"
                 />
   </url>
   
   <url>
-    <loc>millenovecento44/de/tags/</loc>
+    <loc>/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="millenovecento44/es/tags/"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="millenovecento44/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="millenovecento44/de/tags/"
+                href="/de/tags/"
                 />
   </url>
   
