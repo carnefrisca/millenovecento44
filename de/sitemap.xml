@@ -7,7 +7,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -17,7 +17,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -27,11 +27,35 @@
   </url>
   
   <url>
+    <loc>/de/home/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/home/"
+                />
+  </url>
+  
+  <url>
     <loc>/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -41,7 +65,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
