@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/home/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/home/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/tags/"
+                />
+  </url>
+  
+</urlset>
