@@ -6,6 +6,11 @@
     <loc>/es/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="it"
+                href="/it/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="/de/"
                 />
@@ -23,6 +28,11 @@
   
   <url>
     <loc>/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
